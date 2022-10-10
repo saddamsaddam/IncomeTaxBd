@@ -36,8 +36,7 @@
 ![Screenshot 2022-10-10 123221](https://user-images.githubusercontent.com/56682452/194809319-822c0f5a-c19c-4e8c-9bcb-324b6418c11c.png)
 # HouseProperty
 ![Screenshot 2022-10-10 123416](https://user-images.githubusercontent.com/56682452/194809598-446305dd-dcf0-4ced-bb53-fe3506ca6562.png)
-# PDF Link
-https://mail.google.com/mail/u/0/?pli=1#sent/QgrcJHrtpClWWDPltGXhcGBshFcsfpkGlwL?projector=1&messagePartId=0.1
-# Conclusion
+# PDF Link(Project OutPut Resullt)
+https://github.com/saddamsaddam/IncomeTaxBd/blob/master/saddamnvn(111111111111).pdf# Conclusion
  <hl>
  <p> I am still working with security,android app,desktop application,web application.</p>
