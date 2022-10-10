@@ -1,17 +1,15 @@
 # IncomeTaxBd
 <hl>
-<p>It is a java swing netbeans project with sql server.</p>
+<p>It is a JavaFx netbeans project with sql server.</p>
 
 # Project Features
 <hl>
 <ol type="i">
-    <li>WelCome Page</li>
-    <li>Login Page</li>
     <li>Home Page</li>
-    <li>Registration Page</li>
-    <li>All Team Information Page</li>
-    <li>Rules Page</li>
-    <li>Bidding Page</li>
+    <li>Asseesee Registration</li>
+    <li>Asset & Liability</li>
+    <li>Form</li>
+    <li>HouseProperty</li>
   </ol>
 
 # Installation Process
@@ -37,6 +35,7 @@
 # HouseProperty
 ![Screenshot 2022-10-10 123416](https://user-images.githubusercontent.com/56682452/194809598-446305dd-dcf0-4ced-bb53-fe3506ca6562.png)
 # PDF Link(Project OutPut Resullt)
-https://github.com/saddamsaddam/IncomeTaxBd/blob/master/saddamnvn(111111111111).pdf# Conclusion
+https://github.com/saddamsaddam/IncomeTaxBd/blob/master/saddamnvn(111111111111).pdf
+# Conclusion
  <hl>
  <p> I am still working with security,android app,desktop application,web application.</p>
